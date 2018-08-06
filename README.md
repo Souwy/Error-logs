@@ -42,4 +42,10 @@ review
 	what was hard
 	vocab
 	next steps
-  ## Error logs (links)
+## Error logs (links)
+
+### Syntax error
+
+### Runtime error
+
+### Logic error
