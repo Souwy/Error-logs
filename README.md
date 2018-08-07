@@ -13,7 +13,7 @@ everything works according to js, but it doesn't do what you want to.
 ## Error logs (links)
 
 ### Syntax error
-
+[Missing bracket after argument list](https://github.com/Souwy/Error-logs/blob/master/SyntaxError_missing-bracket-after-argument-list.md)
 ### Runtime error
 
 ### Logic error
