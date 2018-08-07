@@ -2,26 +2,26 @@
 
 ## Title: something helpful for you
 
-# Context: where found it first
+## Context: where found it first
 	snippet of code
 	the larger project
 	what you were trying to do
   
-# Error-logs: copied/pasted from different runtimes
+## Error-logs: copied/pasted from different runtimes
 	v8 (Chrome)
 	webkit (Safari)
 	spidermonkey (Firefox)
 	edge
   
-# Fix: what you did to fix it
+## Fix: what you did to fix it
 
-# Exercise
+## Exercise
 	make by hand
 	or reuse from accumulated errors
 
-# Helpful links	
+## Helpful links	
 
-# Review
+## Review
 	what did you learn
 	what was hard
 	vocab
